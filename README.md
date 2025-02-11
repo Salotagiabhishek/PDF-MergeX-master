@@ -81,7 +81,7 @@ Email: [your-email@example.com]
 Clone the project
 
 ```bash
-  git clone git@github.com:MohammedAfrid126/PDF-MergeX.git
+
 ```
 
 Install dependencies
